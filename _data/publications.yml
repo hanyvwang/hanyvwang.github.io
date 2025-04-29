@@ -7,7 +7,7 @@ main:
     pdf: assets/files/asd_report.pdf
     code: https://github.com/hanyvwang/Autism-Brain-Activity-fMRI-Data-Analysis
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/asd.png
     # notes: Early Accept
 
   - title: AD
