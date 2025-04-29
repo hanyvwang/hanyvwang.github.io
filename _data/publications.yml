@@ -10,8 +10,8 @@ main:
     image: ./assets/img/asd.png
     # notes: Early Accept
 
-  - title: AD
-    authors: description
+  - title: "AD"
+    authors: "description"
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
