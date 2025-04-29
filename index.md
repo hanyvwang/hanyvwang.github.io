@@ -14,8 +14,8 @@ I am currently a final-year undergraduate student doing a double major in Statis
 
 ## Education
 
-- **[Start in Sep 2025]** Yale University, MS in Epidemiology of Infectious Diseases (Quantitative)
-- **[Sep 2022 - Jun 2025]** University of Toronto, BS in Statistics & Quantitative Biology
+- **[MS in Epidemiology of Infectious Diseases (Quantitative)]** Yale University, Start in Sep 2025
+- **[BS in Statistics & Quantitative Biology]** University of Toronto, Sep 2022 - Jun 2025
 
 {% include_relative _includes/publications.md %}
 
