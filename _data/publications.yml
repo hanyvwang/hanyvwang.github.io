@@ -10,11 +10,11 @@ main:
     image: ./assets/img/asd.png
     notes: DA
 
-  - title: "AD"
+  - title: "Predicting Alzheimer's Disease Using Machine Learning: A Data-Driven Approach to Early Diagnosis and Risk Factor Identification"
     authors: "description"
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: assets/files/ad_report.pdf
     code: https://github.com/hanyvwang/Classification-of-the-Alzheimers-Disease
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
