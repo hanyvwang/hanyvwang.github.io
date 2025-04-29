@@ -31,7 +31,7 @@ main:
     notes: "Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-  - title: "CHD"
+  - title: "CHeartd"
     authors: "description"
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
