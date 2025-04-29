@@ -2,22 +2,21 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 
-I am a Ph.D. student at ...
+I am currently a final-year undergraduate student doing a double major in Statistics and Quantitative Biology at the University of Toronto (UTSG). My research interest is Environmental Epidemiology (especially in infectious disease). During my undergraduate studies, I have focused on theoretical foundations and applications of Gaussian Processes and Machine Learning, with a focus on probabilistic modeling and data-driven prediction. I have an ultimate goal of providing actionable insights for disease prevention and risk mitigation by integrating epidemiological modeling, environmental data analysis, and advanced statistics.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Epidemiological Modeling**
+- **Biomedical Informatics**
+- **Public Health Analytics**
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Start in Sep 2025]** Yale University, MS in Epidemiology of Infectious Diseases (Quantitative)
+- **[Sep 2022 - Jun 2025]** University of Toronto, BS in Statistics & Quantitative Biology
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
