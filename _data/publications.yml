@@ -4,17 +4,17 @@ main:
     authors: "This study investigates differences in brain connectivity between individuals with ASD and matched neurotypical controls using multivariate statistical techniques."
     conference_short: R
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: assets/files/asd_report.pdf
+    pdf: assets/files/asd_report.pdf
     code: https://github.com/hanyvwang/Autism-Brain-Activity-fMRI-Data-Analysis
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/asd.png
+    # image: ./assets/img/asd.png
     notes: "Real-World Data Analysis"
 
   - title: "Predicting Alzheimer's Disease Using Machine Learning: A Data-Driven Approach to Early Diagnosis and Risk Factor Identification"
     authors: "This project applies machine learning to identify early indicators of Alzheimer’s disease, helping improve diagnosis and support preventive healthcare."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    # pdf: assets/files/ad_report.pdf
+    pdf: assets/files/ad_report.pdf
     code: https://github.com/hanyvwang/Classification-of-the-Alzheimers-Disease
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
