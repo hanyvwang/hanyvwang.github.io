@@ -8,7 +8,7 @@ main:
     code: https://github.com/hanyvwang/Autism-Brain-Activity-fMRI-Data-Analysis
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/asd.png
-    # notes: Early Accept
+    notes: DA
 
   - title: "AD"
     authors: "description"
@@ -18,5 +18,35 @@ main:
     code: https://github.com/hanyvwang/Classification-of-the-Alzheimers-Disease
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    notes: DA
+    # image: ./assets/img/teaser_example.png
+  
+  - title: "RHC"
+    authors: "description"
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/Right-Heart-Catheterization-Treatment-Effect
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: DA
+    # image: ./assets/img/teaser_example.png
+
+  - title: "CHD"
+    authors: "description"
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/Coronary-Heart-Disease-Prediction
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: DA
+    # image: ./assets/img/teaser_example.png
+
+  - title: "TSA"
+    authors: "description"
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/Time-Series-Analysis
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Method
+    # image: ./assets/img/teaser_example.png
