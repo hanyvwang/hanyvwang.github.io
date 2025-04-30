@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-I am currently a final-year undergraduate student doing a double major in Statistics and Quantitative Biology at the University of Toronto (UTSG). My research interest is Environmental Epidemiology (especially in infectious disease). During my undergraduate studies, I have focused on theoretical foundations and applications of Gaussian Processes and Machine Learning, with a focus on probabilistic modeling and data-driven prediction. I have an ultimate goal of providing actionable insights for disease prevention and risk mitigation by integrating epidemiological modeling, environmental data analysis, and advanced statistics.
+I am currently a final-year undergraduate student doing a double major in Statistics and Quantitative Biology at the University of Toronto (UTSG). My research interest is Environmental Epidemiology (especially in infectious disease). During my undergraduate studies, I have focused on theoretical foundations and applications of Gaussian Processes and Machine Learning, with an emphasis on probabilistic modeling and data-driven prediction. I have an ultimate goal of providing actionable insights for disease prevention and risk mitigation by integrating epidemiological modeling, environmental data analysis, and advanced statistics.
 
 ## Research Interests
 
