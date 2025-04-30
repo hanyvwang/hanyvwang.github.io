@@ -31,17 +31,18 @@ main:
     notes: "Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-  - title: "CHeartd"
-    authors: "description"
+  - title: "From Routine Data to Risk Assessment: A Lightweight Predictive Model for Heart Disease"
+    authors: "This study presents a lightweight and interpretable logistic regression model for predicting heart disease using routine clinical data, aiming to support efficient and accessible risk assessment in practical healthcare settings."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: assets/files/chd_report.pdf
     code: https://github.com/hanyvwang/Coronary-Heart-Disease-Prediction
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: "Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-  - title: "TSA"
+  - title: "Time Series Analysis"
     authors: "description"
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
@@ -52,7 +53,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
 
-  - title: "PD"
+  - title: "Population Dynamics"
     authors: "description"
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
