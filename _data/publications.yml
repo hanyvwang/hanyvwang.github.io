@@ -11,7 +11,7 @@ main:
     notes: "Real-World Data Analysis"
 
   - title: "Predicting Alzheimer's Disease Using Machine Learning: A Data-Driven Approach to Early Diagnosis and Risk Factor Identification"
-    authors: "This project applies machine learning to identify early indicators of Alzheimer’s disease, helping improve diagnosis and support preventive healthcare."
+    authors: "This study applies machine learning to identify early indicators of Alzheimer’s disease, helping improve diagnosis and support preventive healthcare."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: assets/files/ad_report.pdf
@@ -43,7 +43,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
   - title: "Time Series Analysis"
-    authors: "description"
+    authors: "This project summarizes key time series analysis methods and illustrates their application through model construction and case-based data analysis."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     code: https://github.com/hanyvwang/Time-Series-Analysis
@@ -54,7 +54,7 @@ main:
 
 
   - title: "Population Dynamics"
-    authors: "description"
+    authors: "This project reviews fundamental models in population dynamics and demonstrates their use through both theoretical model construction and analysis of real-world demographic data."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     code: https://github.com/hanyvwang/Population-Dynamics
