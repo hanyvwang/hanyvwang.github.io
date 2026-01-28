@@ -21,7 +21,7 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 
 ## News
 
-- **[Nov 2025 - Now]** Conducted research in collaboration with Prof. Michelle L. Bell’s lab members on a project titled "Quantifying the Impacts of Land-Use and land-use change on Ticks and Tick-Borne Disease Risk".
+- **[Nov 2025 - Now]** Conducted research in collaboration with Prof. Michelle L. Bell’s lab members on the impacts of land-use and land-use change on ticks and tick-borne disease risk".
   
 {% include_relative _includes/publications.md %}
 
