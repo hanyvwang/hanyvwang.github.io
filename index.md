@@ -16,7 +16,7 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 
 ## Education
 
-- **M.Sc in Epidemiology of Infectious Diseases**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale University, Aug 2025 - May 2026
+- **MSc in Epidemiology of Infectious Diseases**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale University, Aug 2025 - May 2026
 - **H.BSc in Statistics & Quantitative Biology**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Toronto, Sep 2022 - Jun 2025
 
 ## News
