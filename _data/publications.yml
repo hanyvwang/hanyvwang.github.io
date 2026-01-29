@@ -8,7 +8,7 @@ main:
     code: https://github.com/hanyvwang/asd-fc-distinctiveness
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/asd.png
-    notes: "Real-World Data Analysis"
+    notes: &nbsp;&nbsp;&nbsp;&nbsp;"Real-World Data Analysis"
 
   - title: "Predicting Alzheimer's Disease Using Machine Learning: A Data-Driven Approach to Early Diagnosis and Risk Factor Identification"
     authors: "This study applies machine learning to identify early indicators of Alzheimer’s disease, helping improve diagnosis and support preventive healthcare."
