@@ -16,12 +16,12 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 
 ## Education
 
-- **MSc in Epidemiology of Infectious Diseases**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale University, Aug 2025–May 2026
-- **H.BSc in Statistics & Quantitative Biology**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Toronto, Sep 2022–Jun 2025
+- **MSc in Epidemiology of Infectious Diseases**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Yale University](https://www.yale.edu/), Aug 2025–May 2026
+- **H.BSc in Statistics & Quantitative Biology**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[University of Toronto](https://www.utoronto.ca/), Sep 2022–Jun 2025
 
 ## News
 
-- **Nov 2025–Present** &nbsp;&nbsp;Conduct research in collaboration with members of Prof. Michelle L. Bell’s lab on the impacts of land use and land-use change on ticks and tick-borne disease risk.
+- **Nov 2025–Present** &nbsp;&nbsp;Conduct research in collaboration with members of [Prof. Michelle L. Bell’s lab](https://bell-lab.yale.edu/) on the impacts of land use and land-use change on ticks and tick-borne disease risk.
   
 {% include_relative _includes/publications.md %}
 
