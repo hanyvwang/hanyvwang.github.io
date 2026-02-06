@@ -15,7 +15,7 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 
 ## News
 
-- **Jan 2026–Present** &nbsp;&nbsp;Contributing to the *Climate Change and Health in Connecticut 2025 Report* at the [Yale Center on Climate Change and Health](https://ysph.yale.edu/yale-center-on-climate-change-and-health/), focusing on the *Infectious Diseases* section.
+- **Jan 2026–Present** &nbsp;&nbsp;Contributing to the *Climate Change and Health in Connecticut 2025 Report* at the [Yale Center on Climate Change and Health](https://ysph.yale.edu/yale-center-on-climate-change-and-health/), with a focus on the *Infectious Diseases* section.
 - **Nov 2025–Present** &nbsp;&nbsp;Conducting research on the impacts of land use and land-use change on ticks and tick-borne disease risk, in collaboration with members of [Prof. Michelle L. Bell’s lab](https://bell-lab.yale.edu/).
 
 ## Education
