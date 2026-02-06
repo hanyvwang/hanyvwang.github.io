@@ -21,7 +21,8 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 
 ## News
 
-- **Nov 2025–Present** &nbsp;&nbsp;Conduct research in collaboration with members of [Prof. Michelle L. Bell’s lab](https://bell-lab.yale.edu/) on the impacts of land use and land-use change on ticks and tick-borne disease risk.
+- **Jan 2026–Present** &nbsp;&nbsp;Contributing to the *Climate Change and Health in Connecticut 2025 Report* at the [Yale Center on Climate Change and Health](https://ysph.yale.edu/yale-center-on-climate-change-and-health/), focusing on the *Infectious Diseases* section.
+- **Nov 2025–Present** &nbsp;&nbsp;Conducting research in collaboration with members of [Prof. Michelle L. Bell’s lab](https://bell-lab.yale.edu/) on the impacts of land use and land-use change on ticks and tick-borne disease risk.
   
 {% include_relative _includes/publications.md %}
 
