@@ -1,1 +1,64 @@
+main:
 
+  - title: "Functional Brain Connectivity Patterns in Autism Spectrum Disorder: A Multivariate Statistical Study"
+    authors: "This study investigates differences in brain connectivity between individuals with ASD and matched neurotypical controls using multivariate statistical techniques."
+    conference_short: R
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: assets/files/asd_report.pdf
+    code: https://github.com/hanyvwang/asd-fc-distinctiveness
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/asd.png
+    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+
+  - title: "Predicting Alzheimer's Disease Using Machine Learning: A Data-Driven Approach to Early Diagnosis and Risk Factor Identification"
+    authors: "This study applies machine learning to identify early indicators of Alzheimer’s disease, helping improve diagnosis and support preventive healthcare."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: assets/files/ad_report.pdf
+    code: https://github.com/hanyvwang/Classification-of-the-Alzheimers-Disease
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    # image: ./assets/img/teaser_example.png
+  
+  - title: "Estimating the Causal Effect of Right Heart Catheterization on Survival Using Propensity Score Matching"
+    authors: "This study utilizes propensity score matching to estimate the causal impact of right heart catheterization on 30-day survival outcomes. By adjusting for confounding variables, the analysis reveals a statistically significant reduction in survival time associated with the treatment."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/Right-Heart-Catheterization-Treatment-Effect
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    # image: ./assets/img/teaser_example.png
+
+  - title: "From Routine Data to Risk Assessment: A Lightweight Predictive Model for Heart Disease"
+    authors: "This study presents a lightweight and interpretable logistic regression model for predicting heart disease using routine clinical data, aiming to support efficient and accessible risk assessment in practical healthcare settings."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: assets/files/chd_report.pdf
+    code: https://github.com/hanyvwang/Coronary-Heart-Disease-Prediction
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Time Series Analysis"
+    authors: "This project summarizes key time series analysis methods and illustrates their application through model construction and case-based data analysis."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/Time-Series-Analysis
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    # image: ./assets/img/teaser_example.png
+
+
+  - title: "Population Dynamics"
+    authors: "This project reviews fundamental models in population dynamics and demonstrates their use through both theoretical model construction and analysis of real-world demographic data."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/Population-Dynamics
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    # image: ./assets/img/teaser_example.png
