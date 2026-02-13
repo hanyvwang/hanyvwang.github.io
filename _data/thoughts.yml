@@ -1,18 +1,7 @@
 main:
 
-  #- title: "A Research Gap: Potential Multi-Pathogen Transmission via Corrugated Cardboard"
-  #  authors: "Corrugated cardboard, as the most commonly used material for package packaging, has been found to potentially increase the risk of infectious disease transmission by carrying viruses on its surface and harboring parasites or parasite eggs internally..."
+  - title: "A Research Gap: Potential Multi-Pathogen Transmission via Corrugated Cardboard"
+    authors: "Corrugated cardboard, as the most commonly used material for package packaging, has been found to potentially increase the risk of infectious disease transmission by carrying viruses on its surface and harboring parasites or parasite eggs internally..."
     # conference_short: R
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    # pdf: assets/files/corrugated_cardboard_id.pdf
-
-
-  - title: "Functional Brain Connectivity Patterns in Autism Spectrum Disorder: A Multivariate Statistical Study"
-    authors: "This study investigates differences in brain connectivity between individuals with ASD and matched neurotypical controls using multivariate statistical techniques."
-    conference_short: R
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: assets/files/asd_report.pdf
-    code: https://github.com/hanyvwang/asd-fc-distinctiveness
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/asd.png
-    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    pdf: assets/files/corrugated_cardboard_id.pdf
