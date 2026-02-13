@@ -5,3 +5,9 @@ main:
     # conference_short: R
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: assets/files/corrugated_cardboard_id.pdf
+
+  - title: "In the Age of AI, What Should Public Health Researchers Do?"
+    authors: "If we can establish equilibrium between technical rationality and practical wisdom, the “human–AI research team” may achieve genuine breakthroughs in public health..."
+    # conference_short: R
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: assets/files/ai.pdf
