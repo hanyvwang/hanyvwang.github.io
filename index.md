@@ -24,5 +24,6 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 - **H.BSc in Statistics & Quantitative Biology**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[University of Toronto](https://www.utoronto.ca/), Sep 2022–Jun 2025
   
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/thoughts.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
