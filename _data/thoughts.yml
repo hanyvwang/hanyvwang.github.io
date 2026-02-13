@@ -7,7 +7,7 @@ main:
     pdf: assets/files/corrugated_cardboard_id.pdf
 
   - title: "In the Age of AI, What Should Public Health Researchers Do?"
-    authors: "As AI takes over analysis and execution, humans must define what problems matter, recognize risks before they appear in datasets, and ensure that public health action remains grounded in social reality and practical wisdom."
+    authors: "As AI takes over analysis and execution, researchers must define what problems matter, recognize risks before they appear in datasets, and ensure that public health action remains grounded in social reality and practical wisdom."
     # conference_short: R
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: assets/files/ai.pdf
