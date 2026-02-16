@@ -6,6 +6,12 @@ main:
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: assets/files/corrugated_cardboard_id.pdf
 
+  - title: "When Labels Replace Mechanisms: Structural Bias in Identifying Susceptible Populations in Environmental Exposure Studies"
+    authors: "In studies of air pollution and coronary heart disease, if differences in exposure intensity and social roles are not explicitly modeled, observed sex differences may simply reflect unequal exposure rather than intrinsic biological vulnerability."
+    # conference_short: R
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: assets/files/expose.pdf
+
   - title: "In the Age of AI, What Should Public Health Researchers Do?"
     authors: "As AI takes over analysis and execution, researchers must define what problems matter, recognize risks before they appear in datasets, and ensure that public health action remains grounded in social reality and practical wisdom."
     # conference_short: R
