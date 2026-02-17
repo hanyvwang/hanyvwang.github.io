@@ -54,7 +54,7 @@ main:
 
 
   - title: "Multivariate Statistics"
-    authors: "This project implements core methodologies in multivariate data analysis. Covered methods include PCA, discriminant analysis, MANOVA, cluster analysis, ordination techniques, factor analysis, structural equation modeling (SEM)."
+    authors: "This ongoing project implements core methodologies in multivariate data analysis. Covered methods include PCA, discriminant analysis, MANOVA, cluster analysis, ordination techniques, factor analysis, structural equation modeling (SEM)."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     code: https://github.com/hanyvwang/multivariate-statistics
