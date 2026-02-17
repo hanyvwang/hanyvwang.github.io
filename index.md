@@ -15,7 +15,7 @@ I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Special
 
 ## News
 
-- **Feb 2026–Present** &nbsp;&nbsp;Starting independent study in environmental health analysis under the supervision of [Prof. Kai Chen](https://ysph.yale.edu/profile/kai-chen/), aiming to build an exposure–sensitivity–adaptive capacity framework to reveal how climate change affects health outcomes among Connecticut residents and support precision health interventions.
+- **Feb 2026–Present** &nbsp;&nbsp;Starting an independent study in environmental health under the supervision of [Prof. Kai Chen](https://ysph.yale.edu/profile/kai-chen/) to develop an exposure–sensitivity–adaptive capacity framework for quantifying climate-related health risks on health outcomes among Connecticut residents and informing precision public health interventions.
 
 - **Jan 2026–Present** &nbsp;&nbsp;Contributing to the [Program on Climate Change and Health in Connecticut](https://ysph.yale.edu/yale-center-on-climate-change-and-health/policy-and-public-health-practice/connecticut/) at the [Yale Center on Climate Change and Health](https://ysph.yale.edu/yale-center-on-climate-change-and-health/) (Executive Director: [Jennifer Wang](https://ysph.yale.edu/profile/jen-wang/)), focusing on the Infectious Diseases section of the *Climate Change and Health in Connecticut 2025 Report*.
   
