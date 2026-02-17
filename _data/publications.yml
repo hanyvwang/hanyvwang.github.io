@@ -43,7 +43,7 @@ main:
     # image: ./assets/img/teaser_example.png
 
   - title: "Quantitative Methods for Infectious Disease Epidemiology"
-    authors: "This project implements core quantitative models in infectious diseases, including transmission and household models, R₀ estimation, Bayesian MCMC inference, hidden Markov models, vaccine efficacy models, time series methods (ARIMA, TSIR), and network-based transmission models."
+    authors: "This project implements core quantitative models in infectious diseases, including transmission and household models, R0 estimation, Bayesian MCMC inference, hidden Markov models, vaccine efficacy models, time series methods (ARIMA, TSIR), and network-based transmission models."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     code: https://github.com/hanyvwang/quantitative-methods-id
