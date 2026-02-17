@@ -42,22 +42,22 @@ main:
     notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-  - title: "Time Series Analysis"
-    authors: "This project summarizes key time series analysis methods and illustrates their application through model construction and case-based data analysis."
+  - title: "Quantitative Methods for Infectious Disease Epidemiology"
+    authors: "This project implements core quantitative models in infectious diseases, including transmission and household models, R₀ estimation, Bayesian MCMC inference, hidden Markov models, vaccine efficacy models, time series methods (ARIMA, TSIR), and network-based transmission models."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    code: https://github.com/hanyvwang/Time-Series-Analysis
+    code: https://github.com/hanyvwang/quantitative-methods-id
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
     # image: ./assets/img/teaser_example.png
 
 
-  - title: "Population Dynamics"
-    authors: "This project reviews fundamental models in population dynamics and demonstrates their use through both theoretical model construction and analysis of real-world demographic data."
+  - title: "Multivariate Statistics"
+    authors: "This project implements core methodologies in multivariate data analysis. Covered methods include PCA, discriminant analysis, MANOVA, cluster analysis, ordination techniques, factor analysis, structural equation modeling (SEM)."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    code: https://github.com/hanyvwang/Population-Dynamics
+    code: https://github.com/hanyvwang/multivariate-statistics
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
