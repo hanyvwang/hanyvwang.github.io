@@ -7,7 +7,7 @@ main:
     code: https://github.com/hanyvwang/quantitative-methods-id
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    #notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
     # image: ./assets/img/teaser_example.png
 
   - title: "Multivariate Statistics"
@@ -17,7 +17,7 @@ main:
     code: https://github.com/hanyvwang/multivariate-statistics
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    #notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
     # image: ./assets/img/teaser_example.png
 
   - title: "Functional Brain Connectivity Patterns in Autism Spectrum Disorder: A Multivariate Statistical Study"
@@ -28,7 +28,7 @@ main:
     code: https://github.com/hanyvwang/asd-fc-distinctiveness
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/asd.png
-    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    #notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
 
   - title: "Predicting Alzheimer's Disease Using Machine Learning: A Data-Driven Approach to Early Diagnosis and Risk Factor Identification"
     authors: "This study applies machine learning to identify early indicators of Alzheimer’s disease, helping improve diagnosis and support preventive healthcare."
@@ -38,7 +38,7 @@ main:
     code: https://github.com/hanyvwang/Classification-of-the-Alzheimers-Disease
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    #notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
   
   #- title: "Estimating the Causal Effect of Right Heart Catheterization on Survival Using Propensity Score Matching"
@@ -59,7 +59,7 @@ main:
     code: https://github.com/hanyvwang/Coronary-Heart-Disease-Prediction
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
+    #notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
   #- title: "From Routine Data to Risk Assessment: A Lightweight Predictive Model for Heart Disease"
