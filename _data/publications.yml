@@ -55,7 +55,7 @@ main:
     authors: "This study applies a multivariable linear regression framework to examine the associations between prenatal and perinatal substance exposures and childhood cognitive performance in a mother–child cohort."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: assets/files/expose_cognitive.pdf
+    pdf: assets/files/exposure_cognitive.pdf
     code: https://github.com/hanyvwang/child-cognitive-performance
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
