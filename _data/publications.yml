@@ -56,7 +56,7 @@ main:
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: assets/files/expose_cognitive.pdf
-    code: https://github.com/hanyvwang/Child-Cognitive-Performance
+    code: https://github.com/hanyvwang/child-cognitive-performance
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
