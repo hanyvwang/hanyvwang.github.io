@@ -1,5 +1,25 @@
 main:
 
+  - title: "Quantitative Methods for Infectious Disease Epidemiology"
+    authors: "This project implements core quantitative models in infectious diseases, including transmission and household models, R0 estimation, Bayesian MCMC inference, hidden Markov models, vaccine efficacy models, time series methods (ARIMA, TSIR), and network-based transmission models."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/quantitative-methods-id
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Multivariate Statistics"
+    authors: "This ongoing project implements core methodologies in multivariate data analysis. Covered methods include PCA, discriminant analysis, MANOVA, cluster analysis, ordination techniques, factor analysis, structural equation modeling (SEM)."
+    conference_short: R
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    code: https://github.com/hanyvwang/multivariate-statistics
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    # image: ./assets/img/teaser_example.png
+
   - title: "Functional Brain Connectivity Patterns in Autism Spectrum Disorder: A Multivariate Statistical Study"
     authors: "This study investigates differences in brain connectivity between individuals with ASD and matched neurotypical controls using multivariate statistical techniques."
     conference_short: R
@@ -31,34 +51,25 @@ main:
     #notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-  - title: "From Routine Data to Risk Assessment: A Lightweight Predictive Model for Heart Disease"
-    authors: "This study presents a lightweight and interpretable logistic regression model for predicting heart disease using routine clinical data, aiming to support efficient and accessible risk assessment in practical healthcare settings."
+  - title: "Prenatal Substance Exposures and Childhood Cognitive Performance: A Multivariable Analysis"
+    authors: "This study applies a multivariable linear regression framework to examine the associations between prenatal and perinatal substance exposures and childhood cognitive performance in a mother–child cohort."
     conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: assets/files/chd_report.pdf
+    pdf: assets/files/expose_cognitive.pdf
     code: https://github.com/hanyvwang/Coronary-Heart-Disease-Prediction
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-  - title: "Quantitative Methods for Infectious Disease Epidemiology"
-    authors: "This project implements core quantitative models in infectious diseases, including transmission and household models, R0 estimation, Bayesian MCMC inference, hidden Markov models, vaccine efficacy models, time series methods (ARIMA, TSIR), and network-based transmission models."
-    conference_short: R
+  #- title: "From Routine Data to Risk Assessment: A Lightweight Predictive Model for Heart Disease"
+    #authors: "This study presents a lightweight and interpretable logistic regression model for predicting heart disease using routine clinical data, aiming to support efficient and accessible risk assessment in practical healthcare settings."
+    #conference_short: R
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    code: https://github.com/hanyvwang/quantitative-methods-id
+    #pdf: assets/files/chd_report.pdf
+    #code: https://github.com/hanyvwang/Coronary-Heart-Disease-Prediction
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
+    #notes: "&nbsp;&nbsp;&nbsp;Real-World Data Analysis"
     # image: ./assets/img/teaser_example.png
 
-
-  - title: "Multivariate Statistics"
-    authors: "This ongoing project implements core methodologies in multivariate data analysis. Covered methods include PCA, discriminant analysis, MANOVA, cluster analysis, ordination techniques, factor analysis, structural equation modeling (SEM)."
-    conference_short: R
-    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    code: https://github.com/hanyvwang/multivariate-statistics
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: "&nbsp;&nbsp;&nbsp;Statistical Modeling & Methodology"
-    # image: ./assets/img/teaser_example.png
