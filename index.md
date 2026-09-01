@@ -4,14 +4,7 @@ layout: homepage
 
 ## Biography
 
-I am an MSc student in Epidemiology of Infectious Diseases (Quantitative Specialization) at [Yale University](https://www.yale.edu/), with a background in Statistics and Quantitative Biology. My research interests focus on developing and applying statistical and mathematical models to investigate how environmental factors shape infectious disease transmission dynamics. I am particularly interested in integrating epidemiological models with environmental data, with the goal of generating actionable insights for disease prevention and risk mitigation.
-
-## Research Interests
-
-- **Quantitative Infectious Disease Epidemiology**
-- **Environmental Drivers of Disease Transmission**
-- **Probabilistic and Statistical Modeling**
-- **Machine Learning & Data-Driven Inference**
+I am an MS student in Epidemiology of Infectious Diseases (Quantitative Specialization) at [Yale University](https://www.yale.edu/), with a background in Statistics and Quantitative Biology. My research interests focus on developing and applying statistical, mathematical and machine learning models to investigate how climatic, ecological and socioeconomic factors influence infectious disease transmission dynamics. My primary strengths are in public health surveillance data analysis, particularly transmission dynamics modeling, epidemic parameter estimation, time series analysis, Bayesian inference, and related quantitative methods.
 
 ## News
 
